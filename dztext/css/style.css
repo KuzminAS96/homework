@@ -1,0 +1,30 @@
+.open-sans {
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.line {
+    text-decoration: line-through;
+    text-align: left;
+}
+
+.caps {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.intervalslov {
+    color: #42037c;
+    word-spacing: 30px;
+    text-shadow: 2px 2px 2px #000000;
+    text-decoration: overline wavy;
+}
+
+.intervalbukv {
+    text-decoration: underline double;
+    letter-spacing: 5px;
+}
