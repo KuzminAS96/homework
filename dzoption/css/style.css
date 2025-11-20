@@ -1,0 +1,28 @@
+body {
+    font-size: 25px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    background: #e0d5c5;
+    width: 1800px;
+    height: 800px;
+    overflow: auto;
+    box-sizing: border-box;
+    padding: 30px;
+    background: #ced4db;
+    border-radius: 45px 0 0 45px;
+}
+div {
+    background: #9c8383;
+    width: 350px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 45px;
+    padding: 25px;
+    display: inline-block;
+    box-shadow: 0px 0px 15px #1d1c1c inset;
+}
