@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+
+}
+
+form {
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+legend {
+    font-weight: 700;
+    margin-left: 12px;
+    margin-bottom: 0;
+}
+
+fieldset {
+    border: none;
+}
+
+label {
+    display: block;
+    font-weight: 200;
+}
+
+input {
+    display: block;
+    border-radius: 5px;
+}
+
+textarea {
+    resize: vertical;
+    border-radius: 5px;
+    max-height: 200px;
+    min-height: 25px;
+    width: 169px;
+}
+
+#flag {
+    display: inline;
+    cursor: pointer;
+}
+button {
+    border-radius: 5px;
+    cursor: pointer;
+}
