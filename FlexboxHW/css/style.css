@@ -1,0 +1,48 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+ul {
+    /* display: inline-flex; */
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.conteiner {
+    max-width: 1320px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.header_container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+li {
+    display: inline;
+    padding: 5px 5px;
+}
+
+a {
+    color: black;
+}
+
+.phone {
+    text-decoration: none;
+}
